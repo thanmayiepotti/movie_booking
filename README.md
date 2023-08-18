@@ -1,5 +1,7 @@
 # movie_booking
 A movie booking system interface using GUI
+
+few preview:
 ![11](https://github.com/thanmayiepotti/movie_booking/assets/142530111/a4ded2f1-f630-41c7-8ba9-6db5e14f1f1c)
 ![14](https://github.com/thanmayiepotti/movie_booking/assets/142530111/35b34834-53c0-4d73-ae3c-0551863480d8)
 ![12](https://github.com/thanmayiepotti/movie_booking/assets/142530111/ba439d69-d39e-47fb-be87-0494548f72d7)
